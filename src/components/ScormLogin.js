@@ -1,5 +1,5 @@
 import React, {Component} from 'react'
-import SCORMCloud from 'scormcloud-api-client'
+import SCORMCloud from 'scormcloud-api-wrapper'
 
 
 class ScormLogin extends Component{
