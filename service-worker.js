@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/scormcloud-demo/precache-manifest.52a8d9b22d587725bff6699b6d8663b2.js"
+  "/scormcloud-demo/precache-manifest.eb6a2378e5bb69226e123f0affb44c1d.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/scormcloud-demo/static/css/main.b100e6da.chunk.css",
-    "main.js": "/scormcloud-demo/static/js/main.93d24fa7.chunk.js",
-    "main.js.map": "/scormcloud-demo/static/js/main.93d24fa7.chunk.js.map",
+    "main.js": "/scormcloud-demo/static/js/main.7e25feea.chunk.js",
+    "main.js.map": "/scormcloud-demo/static/js/main.7e25feea.chunk.js.map",
     "runtime-main.js": "/scormcloud-demo/static/js/runtime-main.1ab9ab15.js",
     "runtime-main.js.map": "/scormcloud-demo/static/js/runtime-main.1ab9ab15.js.map",
     "static/js/2.7b083848.chunk.js": "/scormcloud-demo/static/js/2.7b083848.chunk.js",
     "static/js/2.7b083848.chunk.js.map": "/scormcloud-demo/static/js/2.7b083848.chunk.js.map",
     "index.html": "/scormcloud-demo/index.html",
-    "precache-manifest.52a8d9b22d587725bff6699b6d8663b2.js": "/scormcloud-demo/precache-manifest.52a8d9b22d587725bff6699b6d8663b2.js",
+    "precache-manifest.eb6a2378e5bb69226e123f0affb44c1d.js": "/scormcloud-demo/precache-manifest.eb6a2378e5bb69226e123f0affb44c1d.js",
     "service-worker.js": "/scormcloud-demo/service-worker.js",
     "static/css/main.b100e6da.chunk.css.map": "/scormcloud-demo/static/css/main.b100e6da.chunk.css.map",
     "static/media/logo.svg": "/scormcloud-demo/static/media/logo.25bf045c.svg"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.1ab9ab15.js",
     "static/js/2.7b083848.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.93d24fa7.chunk.js"
+    "static/js/main.7e25feea.chunk.js"
   ]
 }
